@@ -346,7 +346,9 @@ LLM_MAX_TOKENS = 1024     # Max response length
 
 
 ## Screenshots
+Screenshot 1
 <img width="1895" height="706" alt="image" src="https://github.com/user-attachments/assets/6989090a-348a-401d-bc48-e71ac8dd7448" />
+Screenshot 2
 <img width="1890" height="878" alt="image" src="https://github.com/user-attachments/assets/b4190a29-1208-424f-8ac4-a19be158d9c2" />
 
 
