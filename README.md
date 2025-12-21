@@ -62,7 +62,6 @@ This is an **advanced Retrieval-Augmented Generation (RAG) system** that enables
 - **Chat History**: Conversation view with expandable sources
 - **Settings Panel**: Adjust retrieval, reranking, and LLM parameters
 
----
 
 ## 🚀 Installation
 
@@ -162,7 +161,6 @@ Navigate to:  **http://localhost:8501**
 🤖 AI: Building on what was discussed, the transformer uses... [Document 1]
 ```
 
----
 
 ## 🏗️ Architecture
 
@@ -236,8 +234,6 @@ graph LR
 | **Memory** | Sliding Window | Context preservation (5 turns) |
 | **Framework** | Streamlit | Web interface |
 
----
-
 ## 📂 Project Structure
 
 ```
@@ -269,7 +265,6 @@ ai-document-qa-rag/
     └── uploads/                # Uploaded documents cache
 ```
 
----
 
 ## 🔬 Technical Details
 
@@ -301,7 +296,6 @@ ai-document-qa-rag/
 - **Truncation**:  Oldest-first when limit exceeded
 - **Context**:  Passed to LLM for follow-ups
 
----
 
 ## ⚙️ Configuration
 
@@ -326,7 +320,6 @@ LLM_TEMPERATURE = 0.1     # Deterministic (0) to creative (1)
 LLM_MAX_TOKENS = 1024     # Max response length
 ```
 
----
 
 ## 🎓 Use Cases
 
@@ -354,14 +347,14 @@ LLM_MAX_TOKENS = 1024     # Max response length
 - 🐛 Troubleshooting guides
 - 📖 Code documentation
 
----
+
 ## Screenshots
 
 TBA
 
----
+
 
 ## 👤 Author
 
-**Nahid Muntasir**  
+**Nahid Muntasir Rifat**  
 GitHub: [@NahidMuntasir7](https://github.com/NahidMuntasir7)
