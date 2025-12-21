@@ -76,8 +76,8 @@ This is an **advanced Retrieval-Augmented Generation (RAG) system** that enables
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-document-qa-rag.git
-cd ai-document-qa-rag
+git clone https://github.com/NahidMuntasir7/AskMyDocs.git
+cd AskMyDocs
 ```
 
 ### Step 2: Create Virtual Environment
@@ -95,9 +95,6 @@ source venv/bin/activate
 ### Step 3: Install Dependencies
 
 ```bash
-# Upgrade pip first
-python -m pip install --upgrade pip
-
 # Install requirements (~5-10 minutes)
 pip install -r requirements.txt
 ```
@@ -357,3 +354,14 @@ LLM_MAX_TOKENS = 1024     # Max response length
 - 🐛 Troubleshooting guides
 - 📖 Code documentation
 
+---
+## Screenshots
+
+TBA
+
+---
+
+## 👤 Author
+
+**Nahid Muntasir**  
+GitHub: [@NahidMuntasir7](https://github.com/NahidMuntasir7)
