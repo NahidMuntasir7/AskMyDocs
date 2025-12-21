@@ -27,7 +27,7 @@ This is an **advanced Retrieval-Augmented Generation (RAG) system** that enables
 -  **Real-World Impact**: Perfect for research papers, interviews, capstone projects
 
 
-## Project Video Drive Link
+## Project Walkthrough Video Drive Link
 
 https://drive.google.com/drive/folders/1BDfxZbsOJRNgKzL8Jvmy1mHBuiybrZ47
 
