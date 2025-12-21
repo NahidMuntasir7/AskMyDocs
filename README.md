@@ -18,6 +18,10 @@
 
 This is an **advanced Retrieval-Augmented Generation (RAG) system** that enables intelligent question-answering over your documents with **conversational memory**.
 
+## Project Video Drive Link
+
+https://drive.google.com/drive/folders/1BDfxZbsOJRNgKzL8Jvmy1mHBuiybrZ47
+
 ### 🎯 Why This System?
 
 -  **Production-Ready**: Clean architecture, error handling, persistence
