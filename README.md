@@ -18,14 +18,6 @@
 
 This is an **advanced Retrieval-Augmented Generation (RAG) system** that enables intelligent question-answering over your documents with **conversational memory**.
 
-### 🎯 Why This System?
-
--  **Production-Ready**: Clean architecture, error handling, persistence
--  **State-of-the-Art**: Hybrid search + reranking + conversational memory
--  **No GPU Required**: Runs on CPU with local embeddings
--  **Publication Quality**: Well-documented, modular, extensible
--  **Real-World Impact**: Perfect for research papers, interviews, capstone projects
-
 
 ## Project Walkthrough Video Drive Link
 
