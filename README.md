@@ -347,8 +347,7 @@ LLM_MAX_TOKENS = 1024     # Max response length
 
 ## Screenshots
 
-TBA
-
+<img width="1905" height="751" alt="image" src="https://github.com/user-attachments/assets/c0471c7d-5bb3-45a4-bdcd-2172d8a40778" />
 
 
 ## 👤 Author
