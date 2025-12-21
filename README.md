@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 ## 📖 Overview
 
@@ -27,7 +26,6 @@ This is an **advanced Retrieval-Augmented Generation (RAG) system** that enables
 -  **Publication Quality**: Well-documented, modular, extensible
 -  **Real-World Impact**: Perfect for research papers, interviews, capstone projects
 
----
 
 ## ✨ Features
 
@@ -102,8 +100,7 @@ pip install -r requirements.txt
 
 1. **Get Token**: Go to [GitHub Settings → Tokens](https://github.com/settings/tokens)
 2. **Create Token**: Click "Generate new token (classic)"
-3. **Select Scopes**: Check `read:packages` or `repo`
-4. **Copy Token**: Save it securely
+3. **Copy Token**: Save it securely
 
 Create `.env` file in project root: 
 
