@@ -29,7 +29,7 @@ This is an **advanced Retrieval-Augmented Generation (RAG) system** that enables
 
 ## Project Walkthrough Video Drive Link
 
-[https://drive.google.com/drive/folders/1BDfxZbsOJRNgKzL8Jvmy1mHBuiybrZ47](https://drive.google.com/file/d/1qVCGJLpogvTqGZtcFu6NjEpcIgL-r65Q/view?usp=sharing)
+https://drive.google.com/file/d/1qVCGJLpogvTqGZtcFu6NjEpcIgL-r65Q/view
 
 
 ## ✨ Features
