@@ -18,11 +18,6 @@
 
 This is an **advanced Retrieval-Augmented Generation (RAG) system** that enables intelligent question-answering over your documents with **conversational memory**.
 
-## Project Video Drive Link
-
-https://drive.google.com/drive/folders/1BDfxZbsOJRNgKzL8Jvmy1mHBuiybrZ47
-
-
 ### 🎯 Why This System?
 
 -  **Production-Ready**: Clean architecture, error handling, persistence
@@ -30,6 +25,11 @@ https://drive.google.com/drive/folders/1BDfxZbsOJRNgKzL8Jvmy1mHBuiybrZ47
 -  **No GPU Required**: Runs on CPU with local embeddings
 -  **Publication Quality**: Well-documented, modular, extensible
 -  **Real-World Impact**: Perfect for research papers, interviews, capstone projects
+
+
+## Project Video Drive Link
+
+https://drive.google.com/drive/folders/1BDfxZbsOJRNgKzL8Jvmy1mHBuiybrZ47
 
 
 ## ✨ Features
